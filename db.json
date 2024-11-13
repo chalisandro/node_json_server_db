@@ -1,0 +1,125 @@
+{
+  "profesores": [
+    {
+      "nombre": "Alisandro",
+      "apellido": "Quispe",
+      "materias": [
+        {
+          "nombre": "Sistemas avanzados"
+        },
+        {
+          "nombre": "Fundamentos de la programacion"
+        },
+        {
+          "nombre": "Inteligencia artificial"
+        }
+      ],
+      "id": "ae0f"
+    },
+    {
+      "nombre": "Ordnasila",
+      "apellido": "Epsiuq",
+      "materias": [
+        {
+          "nombre": "Programacion I"
+        },
+        {
+          "nombre": "Inteligencia artificial II"
+        },
+        {
+          "nombre": "Metodologia de la investigacion"
+        }
+      ],
+      "id": "1b36"
+    },
+    {
+      "id": "d0af",
+      "nombre": "Juan Carlos",
+      "apellido": "Chambi DEV",
+      "materias": [
+        {
+          "nombre": "Logaritmos"
+        },
+        {
+          "nombre": "POO"
+        },
+        {
+          "nombre": "Redes II"
+        },
+        {
+          "nombre": "Calculo III"
+        }
+      ]
+    }
+  ],
+  "Alumnos": [
+    {
+      "nombre": "Goku",
+      "apellido": "Son",
+      "promedio": 9.7,
+      "id": "e94c"
+    },
+    {
+      "nombre": "Vegeta",
+      "apellido": "Prince",
+      "promedio": 8.4,
+      "id": "9981"
+    },
+    {
+      "nombre": "Bulma",
+      "apellido": "Briefs",
+      "promedio": 9.2,
+      "id": "6077"
+    },
+    {
+      "nombre": "Frieza",
+      "apellido": "Emperor",
+      "promedio": 7.8,
+      "id": "c37b"
+    },
+    {
+      "nombre": "Piccolo",
+      "apellido": "Namekian",
+      "promedio": 8.5,
+      "id": "e4ca"
+    },
+    {
+      "id": "7c98",
+      "nombre": "Androide",
+      "apellido": "17",
+      "promedio": 9.1
+    }
+  ],
+  "Cursos": [
+    {
+      "nombre": "Curso de Node.js",
+      "duracion": 3,
+      "dificultad": "intermedia",
+      "id": "6fec"
+    },
+    {
+      "nombre": "Fundamentos de React",
+      "duracion": 2,
+      "dificultad": "básica",
+      "id": "ef9e"
+    },
+    {
+      "nombre": "Desarrollo Backend con Python",
+      "duracion": 4,
+      "dificultad": "avanzada",
+      "id": "7555"
+    },
+    {
+      "nombre": "MongoDB para desarrolladores",
+      "duracion": 3,
+      "dificultad": "intermedia",
+      "id": "03a2"
+    },
+    {
+      "nombre": "Desarrollo Full Stack con JavaScript",
+      "duracion": 5,
+      "dificultad": "avanzada",
+      "id": "97b1"
+    }
+  ]
+}
